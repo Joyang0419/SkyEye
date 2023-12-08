@@ -3,6 +3,7 @@ module crawler
 go 1.21.5
 
 require (
+	github.com/goccy/go-json v0.10.2
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/stretchr/testify v1.8.4
 )
